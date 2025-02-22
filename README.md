@@ -48,6 +48,6 @@ This repository contains two projects aimed at detecting fraudulent transactions
 
 ## 🔍 Conclusion
 
-- The **Fraud Detection Model** achieved **97.8% accuracy**, demonstrating **strong classification performance** in identifying fraudulent transactions.  
+- The **Fraud Detection Model** achieved **99.8% accuracy**, demonstrating **strong classification performance** in identifying fraudulent transactions.  
 - The **Anomaly Detection Models** provided valuable insights by flagging suspicious transaction patterns without requiring labeled data.  
 - **Combining supervised and unsupervised approaches** can enhance fraud detection systems by detecting both **known fraud patterns** and **previously unseen anomalies**.  
