@@ -5,9 +5,8 @@ This repository contains two projects aimed at detecting fraudulent transactions
 ## 📌 Project Overview
 
 - **Fraud Detection**: A **supervised learning** approach using a neural network to classify transactions as fraudulent or legitimate.  
-- **Anomaly Detection**: An **unsupervised learning** approach utilizing **Isolation Forest** and **Local Outlier Factor (LOF)** to identify unusual transaction patterns.  
+- **Anomaly Detection**: An **unsupervised learning** approach utilizing **Isolation Forest** and **Local Outlier Factor (LOF)** to identify unusual transaction patterns.
 
-## 🚀 Methodology
 
 ### 🔹 Fraud Detection (Supervised Learning)
 1. **Data Preprocessing**
@@ -31,6 +30,12 @@ This repository contains two projects aimed at detecting fraudulent transactions
 3. **Model Evaluation**
    - Compared anomaly detection results across models.
    - Visualized detected anomalies using **boxplots and scatter plots**.
+
+---
+## 📂 Dataset
+🔗 The dataset for this project can be accessed via the following **[Google Drive link](https://drive.google.com/file/d/1cbyBAVFGBoT9FGKjAnwPAlx8tA9NubVk/view?usp=sharing)**
+Make sure to click on the link to download the dataset.
+---
 
 ## 📊 Results and Insights
 
