@@ -35,7 +35,7 @@ This repository contains two projects aimed at detecting fraudulent transactions
 ## 📊 Results and Insights
 
 ### **Fraud Detection Model (Neural Network)**
-- **Accuracy**: **97.8%**
+- **Accuracy**: **99.8%**
 - **Precision**: **94.1%**
 - **Recall**: **89.6%**
 - **F1-Score**: **91.8%**
